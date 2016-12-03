@@ -1,6 +1,6 @@
 # hello-world
 repository 1
 
-Hello world!
+Hello!
 
 Just trying out GitHub.
