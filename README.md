@@ -3,4 +3,4 @@ repository 1
 
 Hello world!
 
-Just learning.
+Just trying out GitHub.
